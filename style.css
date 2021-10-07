@@ -1,0 +1,132 @@
+#logo {
+    font-size: 44px;
+    font-weight: 1500;
+}
+
+#menu {
+    background-color: #303030;
+    margin-top: 20px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+body { background-color: gray;}
+
+
+.wrapper
+{
+    width: 100%;
+}
+
+.header
+{
+    width: 100%;
+    padding: 40px 0;
+}
+
+.logo
+{
+    width: 450px;
+    font-size: 48px;
+    border: 1px solid #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav
+{
+    width: 100%;
+    padding: 10px 0;
+    background-color: yellow;
+    text-align: center;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    height: 10px;
+}
+
+.content
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.socials
+{
+    width: 100%;
+    text-align: center;
+    background-color: #292929;
+}
+
+.socialdivs
+{
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fb
+{
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.fb:hover
+{
+    background-color: #4668b3;
+}
+
+.yt
+{
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.yt:hover
+{
+    background-color: #d94348;
+}
+
+.tw
+{
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.tw:hover
+{
+    background-color: #3095d3;
+}
+
+.st
+{
+    width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.st:hover
+{
+    background-color: #d94348;
+}
+
+.option
+{
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px dotted yellow;
+    opacity: 0,8;
+}
+
+.option:hover
+{
+    background-color: black;
+    cursor: pointer;
+}
